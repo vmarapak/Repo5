@@ -8,7 +8,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Using_If_Else_in_Automation {
+	
 public static WebDriver driver;
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 String Browser = "Chrome";
